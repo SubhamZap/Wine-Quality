@@ -41,3 +41,14 @@ git add .
 ```bash
 git commit -m "first commit"
 ```
+
+onliner update for README
+```bash
+git add. && git commit -m "README file changed"
+```
+
+```bash
+git remote add origin https://github.com/SubhamZap/Wine-Quality.git
+git branch -M main
+git push origin main
+```
