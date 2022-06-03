@@ -18,14 +18,26 @@ download the data from
 
 https://drive.google.com/drive/folders/1xw0XX-WK74uxtFFLySbtnX-ODdmdK5Ec
 
+```bash
 git init
+```
 
+```bash
 dvc init
+```
 
+```bash
 dvc add data_given/winequality.csv
+```
 
+```bash
 dvc init
+```
 
+```bash
 git add .
+```
 
+```bash
 git commit -m "first commit"
+```
